@@ -1,5 +1,14 @@
 # Credit-Card-Default-Prediction
 
+Overview  
+Credit card default prediction is critical for financial institutions as it helps manage risk, optimize lending decisions, and ensure financial stability. By accurately predicting whether a client will default on a credit card payment, banks and financial institutions can take proactive measures to mitigate potential losses, enhance customer relationship management, and improve overall financial performance.  
+The primary business problem addressed by this project is the high risk and financial losses associated with credit card defaults. For financial institutions, managing credit risk is crucial to maintaining profitability and ensuring financial stability. Credit card defaults can lead to significant losses, impact liquidity, and damage the overall health of the financial institution.
+
+Objectives  
+- Risk Management: Identify high-risk clients who are likely to default on their credit card payments.  
+- Cost Reduction: Minimize losses associated with credit defaults by implementing preemptive measures.  
+- Customer Retention: Develop tailored strategies to help clients manage their credit more effectively, thus improving customer satisfaction and loyalty.  
+- Regulatory Compliance: Ensure compliance with regulatory requirements by maintaining robust risk assessment and management processes.    
 
 This project aims to predict whether a given client will default on a credit card payment when due. The prediction is made using three machine learning models: Logistic Regression, Support Vector Classifier (SVC), and XGBoost. The dataset used for this project is sourced from Kaggle and contains detailed information on credit card clients in Taiwan from April 2005 to September 2005.  
 
@@ -54,4 +63,6 @@ Any publications based on this dataset should acknowledge the following:
 
 Lichman, M. (2013). UCI Machine Learning Repository http://archive.ics.uci.edu/ml. Irvine, CA: University of California, School of Information and Computer Science.  
 
-The original dataset can be found at the UCI Machine Learning Repository.  
+The original dataset can be found at the UCI Machine Learning Repository. 
+
+NB: Please note that continous changes will be done on the project to improve the model. 
